@@ -8,7 +8,7 @@
 
 import { signIn } from '@/auth'
 
-export default function SignIn() {
+export default async function SignInPage() {
     return (
         <div className="w-full justify-center flex items-center h-screen">
             <form

@@ -1,3 +1,11 @@
+/*
+|-----------------------------------------
+| setting up Middleware for the App
+| @author: Toufiquer Rahman<toufiquer.0@gmail.com>
+| @copyright: auth-pwa, October, 2024
+|-----------------------------------------
+*/
+
 import { auth } from '@/auth'
 
 export default auth((req) => {
