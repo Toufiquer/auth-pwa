@@ -22,14 +22,14 @@ export default function manifest(): MetadataRoute.Manifest {
       },
     ], "screenshots": [ 
     {
-     "src": "/screenshot.png",
+     "src": "/screenshot-desktop.png",
       "sizes": "640x320",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Wonder Widgets"
     },
     {
-     "src": "/screenshot.png",
+     "src": "/screenshot-mobile.png",
       "sizes": "640x320",
       "type": "image/png",
       "form_factor": "narrow",
